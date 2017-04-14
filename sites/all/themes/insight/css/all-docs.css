@@ -1,0 +1,82 @@
+/*------------------------------------*/
+/*------------- WRAPPER --------------*/
+/*------------------------------------*/
+.wrapper {
+  padding-top: 82px;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.wrapper .view-docs h3 {
+  font-size: 36px;
+}
+.wrapper .view-docs .list-documents {
+  margin-bottom: 30px;
+}
+.wrapper .view-docs .list-documents li {
+  position: relative;
+  padding-right: 38px;
+  padding-left: 26px;
+  margin-bottom: 16px;
+}
+.wrapper .view-docs .list-documents li img {
+  float: left;
+  width: 69px;
+  height: 92px;
+  margin: 5px 15px 15px 0px;
+}
+.wrapper .view-docs .list-documents li h4 {
+  font-family: "MyriadPro-Regular";
+  color: #151517;
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.wrapper .view-docs .list-documents li p {
+  font-family: "MyriadPro-Regular";
+  color: #727073;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  padding: 12px 0px 4px 27px;
+  border-bottom: #eaeaea 1px solid;
+  margin-bottom: 8px;
+}
+.wrapper .view-docs .list-documents li .date p {
+  font-family: "MyriadPro-Regular";
+  color: #8c8c8c;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0px;
+  border: none;
+}
+.wrapper .view-docs .list-documents li .date a {
+  float: right;
+  font-family: "MyriadPro-Regular";
+  color: #ba6447;
+  font-size: 14px;
+  font-weight: 400;
+}
+.wrapper .view-docs .numbers-pages {
+  margin-right: 38px;
+  margin-left: 26px;
+  border-top: #eaeaea 1px solid;
+  padding-top: 10px;
+  margin-bottom: 45px;
+}
+.wrapper .view-docs .numbers-pages li {
+  display: inline-block;
+}
+.wrapper .view-docs .numbers-pages li a,
+.wrapper .view-docs .numbers-pages li span {
+  font-family: "MyriadPro-Regular";
+  color: #8c8c8c;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0px 7px;
+}
+.wrapper .view-docs .numbers-pages li .active,
+.wrapper .view-docs .numbers-pages li a:hover {
+  color: #ba6447;
+}
+
+/*# sourceMappingURL=all-docs.css.map */

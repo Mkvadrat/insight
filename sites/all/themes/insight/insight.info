@@ -1,0 +1,43 @@
+name = insight
+description = insight 2016.
+package = Core
+version = VERSION
+core = 7.x
+
+
+
+	stylesheets[all][] = css/bootstrap.css
+    stylesheets[all][] = css/reset.css
+    stylesheets[all][] = css/fonts.css
+	stylesheets[all][] = css/main.css
+	stylesheets[all][] = css/all-news.css
+	stylesheets[all][] = css/news-in.css
+	stylesheets[all][] = css/contacts.css
+	stylesheets[all][] = css/all-otsiv.css
+	stylesheets[all][] = css/all-services.css
+	stylesheets[all][] = css/all-docs.css
+	stylesheets[all][] = css/faq.css
+	
+	
+	
+    scripts[] = js/bootstrap.min.js
+
+regions[phone_head] = телефон в шапке
+
+regions[service_head] = список услуг в шапке
+
+regions[left_sidebar] = левый блок
+
+regions[content] = Content
+regions[footer_menu] = нижнее меню
+regions[phone_footer] = телефоны в футере
+regions[socsety] = соцсети футер
+
+regions[mail_footer] = mail футер
+regions[skype_footer] = skype футер
+
+; Information added by drupal.org packaging script on 2013-04-26
+version = "7.x-1.3"
+core = "7.x"
+project = "insight.info"
+datestamp = "1366989612"

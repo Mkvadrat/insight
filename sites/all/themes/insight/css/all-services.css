@@ -1,0 +1,67 @@
+/*------------------------------------*/
+/*------------- WRAPPER --------------*/
+/*------------------------------------*/
+.wrapper {
+  padding-top: 82px;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.wrapper .view-services h3 {
+  font-size: 36px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-top: 25px;
+}
+.wrapper .view-services h4 {
+  font-family: "MyriadPro-Regular";
+  color: #151517;
+  /*font-size: 14px;*/
+  font-size: 16px;
+  font-weight: 700;
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+.wrapper .view-services h5 {
+  font-family: "MyriadPro-Regular";
+  color: #151517;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0;
+}
+.wrapper .view-services ul li {
+  /*font-family: "MyriadPro-Regular";
+  color: #151517;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;*/
+  font-family: "MyriadPro-Regular";
+  color: #727073;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.wrapper .view-services p {
+  font-family: "MyriadPro-Regular";
+  color: #151517;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: italic;
+  padding-top: 20px;
+}
+.wrapper .view-services ul:last-child {
+  padding-bottom: 45px;
+}
+.wrapper .view-services ul:nth-child(7),
+.wrapper .view-services ul:nth-child(12),
+.wrapper .view-services ul:nth-child(13),
+.wrapper .view-services ul:nth-child(14),
+.wrapper .view-services ul:nth-child(15),
+.wrapper .view-services ul:nth-child(16),
+.wrapper .view-services ul:nth-child(17),
+.wrapper .view-services ul:nth-child(18),
+.wrapper .view-services ul:nth-child(19) {
+  padding-top: 20px;
+}
+
+/*# sourceMappingURL=all-services.css.map */

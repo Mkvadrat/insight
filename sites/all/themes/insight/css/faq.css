@@ -1,0 +1,156 @@
+/*------------------------------------*/
+/*------------- WRAPPER --------------*/
+/*------------------------------------*/
+.wrapper {
+  padding-top: 82px;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.wrapper .view-djghj h3 {
+  font-size: 36px;
+  padding-top: 25px;
+}
+.wrapper .view-djghj .list-documents {
+  margin-bottom: 20px;
+}
+.wrapper .view-djghj .list-documents li {
+  position: relative;
+  padding-right: 38px;
+  padding-left: 26px;
+  margin-bottom: 16px;
+}
+.wrapper .view-djghj .list-documents li h4 {
+  font-family: "MyriadPro-Regular";
+  color: #151517;
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.wrapper .view-djghj .list-documents li p {
+  font-family: "MyriadPro-Regular";
+  color: #727073;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  padding: 12px 0px 4px 0px;
+  border-bottom: #eaeaea 1px solid;
+  margin-bottom: 27px;
+}
+.wrapper .view-djghj .numbers-pages {
+  margin-right: 38px;
+  margin-left: 26px;
+  border-top: #eaeaea 1px solid;
+  padding-top: 10px;
+  margin-bottom: 24px;
+}
+.wrapper .view-djghj .numbers-pages li {
+  display: inline-block;
+}
+.wrapper .view-djghj .numbers-pages li a,
+.wrapper .view-djghj .numbers-pages li span {
+  font-family: "MyriadPro-Regular";
+  color: #8c8c8c;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0px 7px;
+}
+.wrapper .view-djghj .numbers-pages li .active,
+.wrapper .view-djghj .numbers-pages li a:hover {
+  color: #ba6447;
+}
+.wrapper .view-djghj .form-in-about {
+  margin-bottom: 30px;
+}
+.wrapper .view-djghj form {
+  width: 818px;
+  height: auto;
+  background-color: #f7f7f7;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 26px;
+}
+.wrapper .view-djghj form h4 {
+  font-family: "MyriadPro-Regular";
+  color: #151517;
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 24px 10px;
+  line-height: 22px;
+}
+.wrapper .view-djghj form input[type="text"],
+.wrapper .view-djghj form input[type="email"] {
+  display: block;
+  width: 302px;
+  height: 39px;
+  margin: 0 auto 20px;
+  background-color: white;
+  border: 1px solid #eaeaea;
+  font-family: "MyriadPro-Regular";
+  color: #9f9f9f;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 15px 20px 10px 20px;
+}
+.wrapper .view-djghj form textarea {
+  display: block;
+  width: 302px;
+  min-height: 122px;
+  height: auto;
+  margin: 0 auto 20px;
+  background-color: white;
+  border: 1px solid #eaeaea;
+  font-family: "MyriadPro-Regular";
+  color: #9f9f9f;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 10px;
+  resize: none;
+}
+.wrapper .view-djghj form input[type="text"]:focus::-webkit-input-placeholder,
+.wrapper .view-djghj form input[type="email"]:focus::-webkit-input-placeholder,
+.wrapper .view-djghj form textarea:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+.wrapper .view-djghj form input[type="text"]:focus::-moz-placeholder,
+.wrapper .view-djghj form input[type="email"]:focus::-moz-placeholder,
+.wrapper .view-djghj form textarea:focus::-moz-placeholder {
+  color: transparent;
+}
+.wrapper .view-djghj form input[type="text"]:focus:-moz-placeholder,
+.wrapper .view-djghj form input[type="email"]:focus:-moz-placeholder,
+.wrapper .view-djghj form textarea:focus:-moz-placeholder {
+  color: transparent;
+}
+.wrapper .view-djghj form input[type="text"]:focus:-ms-input-placeholder,
+.wrapper .view-djghj form input[type="email"]:focus:-ms-input-placeholder,
+.wrapper .view-djghj form textarea:focus:-ms-input-placeholder {
+  color: transparent;
+}
+.wrapper .view-djghj form input[type="submit"] {
+  background-color: #7eb9d9;
+  border-radius: 5px;
+  box-shadow: 0 2px 0 #853602;
+  border: none;
+  background-image: url(../images/sprite-1.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 48px;
+  background-position: -3px -260px;
+  font-family: "MyriadPro-Regular";
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 48px;
+  margin-bottom: 20px;
+}
+.wrapper .view-djghj form input[type="submit"]:hover {
+  background-image: url(../images/sprite-1.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 48px;
+  background-position: -3px -320px;
+}
+
+/*# sourceMappingURL=faq.css.map */
