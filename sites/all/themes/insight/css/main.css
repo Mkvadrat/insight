@@ -203,7 +203,7 @@ body input, body textarea, body a {
   font-family: "MyriadPro-Regular", Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
-  padding: 15px 52px;
+  padding: 15px 44px;
 }
 .bg-header .header-container nav ul li a:hover {
   box-shadow: inset 0px -3px 0px 0px #cb8455;
@@ -1056,4 +1056,25 @@ padding: 0px;
 .our-advantages-main li:nth-child(2) h4,
 .our-advantages-main li:nth-child(4) h4 {
   padding-top: 0px !important;
+}
+
+@media only screen and (max-width : 768px) {
+
+  .navbar-nav {
+    margin: 0;
+  }
+
+  .navbar-nav > li > a {
+    display: inline-block !important;
+    width: auto !important;
+  }
+
+  .bg-header .header-container nav ul li {
+    display: inline-block;
+    margin-left: -5px;
+  }
+
+  .navbar-collapse {
+    border: none;
+  }
 }
